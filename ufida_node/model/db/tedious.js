@@ -3,9 +3,9 @@ const sql = require("mssql");
 const config = {
     user: "web",
     password: "web_2022",
-    server: "219.156.133.10",
+    server: "207.154.124.10",//已修改
     database: "web",
-    port: 1433,
+    port: 1637,//已修改
     encrypt: false
 };
 
